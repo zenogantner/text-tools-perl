@@ -1,0 +1,29 @@
+general text file manipulation scripts
+
+See also the following standard GNU/Unix utilities:
+
+awk
+cat
+colrm
+column
+comm
+csplit
+cut
+diff, patch
+expand, unexpand
+fold
+grep, egrep
+head, tail
+iconv
+join
+nl
+paste
+sed
+split, csplit
+sort
+tr
+uniq
+wc
+
+... and these programs:
+unix2dos, dos2unix
