@@ -21,6 +21,7 @@ paste
 sed
 split, csplit
 sort
+tee
 tr
 uniq
 wc
